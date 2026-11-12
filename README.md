@@ -2,13 +2,17 @@
 
 [台湾区 Apple ID 获取与使用指南：台区商店同样是繁体中文，可用性良好，适合需要中文界面又要下载外区应用的用户。本仓库讲清台区共享号的登录流程、常见报错处理，以及台区独享账号的规格差异与选购建议。](https://nbid666.com/categories/TW)
 
-> 最近更新：2026-11-13
+<p align="center"><b>👇 三个都是按钮，点哪个进哪个</b></p>
 
-<!-- AUTO-STATUS:BEGIN -->
-> **今日状态 · 2026-11-13**｜可用 **10 个账号**（美区 6 · 香港区 1 · 台湾区 1 · 日本区 1 · 韩国区 1）｜近 24 小时轮换 93 次，近 7 日 372 次
->
-> **台湾区当前 1 个可用**｜账号池每 6 小时自动复核，失效即重置密码
-<!-- AUTO-STATUS:END -->
+<p align="center">
+  <a href="https://nbid666.com/categories/TW" title="查看本区独享老号，带密保、可转区、自动发货"><img src="assets/btn_buy.png" alt="立即购买 · 本区独享老号" height="68"></a>
+  <br><br>
+  <a href="https://id.tangping.icu/" title="免费共享取号，密码定期轮换，失效自动重置"><img src="assets/btn_free.png" alt="免费共享 · 立即取号" height="68"></a>
+  <br><br>
+  <a href="https://nbid666.com/products" title="美港台日韩英土加等全区现货，可对比价格"><img src="assets/btn_all.png" alt="全部地区 · 对比价格" height="68"></a>
+</p>
+
+> 最近更新：2026-11-10
 
 ## 为什么有人专门要台湾区账号
 
